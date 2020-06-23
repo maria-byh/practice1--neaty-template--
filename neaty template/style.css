@@ -1,0 +1,175 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+.left-blue-sec {
+    background-color: #006599;
+    color:white;
+    width: 30%;
+    height: 100vh;
+    position: fixed;
+    float: left; 
+}
+.logo-name {
+    text-align: center;
+    position: relative;
+    top: 45px;
+}
+.name {
+    position: relative;
+    top: -25px;
+    letter-spacing: 1px;
+    font-size: 37px;
+}
+.list-sec {
+    position: relative;
+    left: 21.89%;
+    top: 6mm;
+    font-size: 21px; 
+    line-height: 70px;
+ }
+.a {
+    text-decoration: none;
+    color: white;
+}
+.a:hover {
+    color: #f4ef5e;
+}
+.right-sec {
+    width: 70%;
+    height: 100vh;
+    float: right;
+}
+.main-img {
+    width: 100%;
+    height: 630px;
+}
+.content {
+    padding: 60px 70px 30px 80px;
+    font-size: 20px;
+    color: #373a3c;
+    line-height: 1.1cm;
+}
+h2 {
+    font-size: 3rem;
+    letter-spacing: 1px;
+    color: #006599;
+}
+.welcome {
+    margin-bottom: 100px;
+}
+.about-us {
+    height:660px ;
+}
+.a-img {
+    width: 31%; 
+    float: left;
+}
+.about-img {
+    width: 100%;
+    height: 380px; 
+}
+.right-aboutus-sec {
+    width: 69%;
+    float: right; 
+    position: relative;
+    left: 4%;
+    top: -40px;             
+}
+h3 {
+    font-size: 2.2rem;
+    color: #006599;
+}
+.read-mr {
+    display: inline-block;
+    font-size: 1.4rem;
+    padding: 15px 68px;
+    text-decoration: none;
+    background-color: #006599;
+    color:white;
+}
+.read-mr:hover {
+    opacity: 80%;
+    transition: all 0.3s ease;
+}
+.gallery {
+    padding-bottom: 300px;
+    margin-right: -60px;
+}
+.g1-img {
+    height: 160px;
+    width: 160px;
+    float: left;
+    margin-right: 10px;
+}
+.img1 {
+    width: 100%;
+    height: 100%;
+}
+.g2-img {
+    float: left;
+    margin-right: 10px;
+    height: 180px;
+    width: 270px;
+}
+.img2 {
+    width: 100%;
+    height: 100%;
+} 
+.g3-img {
+    float: left;
+    margin-right: 10px;
+    height: 200px;
+    width: 200px;
+}
+.img3 {
+    width: 100%;
+    height: 100%;
+} 
+.cus {
+    margin-bottom: 220px;
+}
+.boxes {
+    float: left;
+    width: 49%;
+    margin-right: 65px;
+}
+.box {
+    margin-bottom: 1rem;
+    color: #4286ab;
+}
+.c {
+    color: #0a6697;
+    border: 1px solid; 
+    width:  100%;
+    height: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.3rem;
+    padding: 12px;   
+}
+.m {
+    height: 220px;
+}
+.submit {
+    background-color: #006599;
+    font-family: 'Open Sans', sans-serif;
+    border: none;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.4rem;
+    padding: 18px 35px;
+}
+.submit:hover {
+    opacity: 80%;
+    transition: all 0.3s ease;
+}
+address {
+    font-style: normal;
+    line-height: 30px;
+}
+.cr {
+    text-decoration: none;
+    color: #006599; 
+}
