@@ -208,13 +208,13 @@ address {
     }
     .g1-img {
         width: 20%; 
-     }
-     .g2-img {
+    }
+    .g2-img {
         width: 33.33333333%;
-     }
-     .g3-img {
+    }
+    .g3-img {
         width: 25%;
-     } 
+    } 
     .contact-us {
         display: block;
     }
@@ -254,7 +254,7 @@ address {
         flex-wrap: wrap;
      }
     .margin {
-        margin-bottom: 0px;
+        margin-bottom:10px;
     }
     .g1-img {
         width: 47%; 
